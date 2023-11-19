@@ -1,0 +1,35 @@
+2023-11-18 19:04:13,986 - SCENE - scene - Initializing AbstractScene.
+2023-11-18 19:05:30,855 - SCENE - scene - Initializing AbstractScene.
+2023-11-18 19:05:30,858 - CORE - _window - Importing _window module.
+2023-11-18 19:05:30,858 - CORE - _window - Initializing MainWindow class.
+2023-11-18 19:05:30,858 - CORE - _window - Registering event: on_activate
+2023-11-18 19:05:30,858 - CORE - _window - Registering event: on_deactivate
+2023-11-18 19:05:30,858 - CORE - _window - Registering event: on_reactivate
+2023-11-18 19:05:30,858 - CORE - _window - Registering event: on_refresh
+2023-11-18 19:05:30,858 - CORE - _window - Registering event: on_render
+2023-11-18 19:06:09,384 - SCENE - scene - Initializing AbstractScene.
+2023-11-18 19:06:36,913 - SCENE - scene - Initializing AbstractScene.
+2023-11-18 19:06:36,916 - CORE - _window - Importing _window module.
+2023-11-18 19:06:36,916 - CORE - _window - Initializing MainWindow class.
+2023-11-18 19:06:36,916 - CORE - _window - Registering event: on_activate
+2023-11-18 19:06:36,916 - CORE - _window - Registering event: on_deactivate
+2023-11-18 19:06:36,916 - CORE - _window - Registering event: on_reactivate
+2023-11-18 19:06:36,916 - CORE - _window - Registering event: on_refresh
+2023-11-18 19:06:36,916 - CORE - _window - Registering event: on_render
+2023-11-18 19:07:01,948 - CORE - _window - Call to super(MainWindow, self).__init__(fullscreen=False, resizable=True).
+2023-11-18 19:07:02,011 - CORE - _window - Target frame rate: 60 fps
+2023-11-18 19:07:02,064 - CORE - _window - Main window initialized.
+2023-11-18 19:09:18,211 - SCENE - scene - Initializing AbstractScene.
+2023-11-18 19:09:18,215 - CORE - _window - Importing _window module.
+2023-11-18 19:09:18,215 - CORE - _window - Initializing MainWindow class.
+2023-11-18 19:09:18,215 - CORE - _window - Registering event: on_activate
+2023-11-18 19:09:18,215 - CORE - _window - Registering event: on_deactivate
+2023-11-18 19:09:18,215 - CORE - _window - Registering event: on_reactivate
+2023-11-18 19:09:18,215 - CORE - _window - Registering event: on_refresh
+2023-11-18 19:09:18,215 - CORE - _window - Registering event: on_render
+2023-11-18 19:09:28,423 - CORE - _window - Call to super(MainWindow, self).__init__(fullscreen=False, resizable=True).
+2023-11-18 19:09:28,423 - CORE - _window - Target frame rate: 60 fps
+2023-11-18 19:09:28,465 - CORE - _window - Main window initialized.
+2023-11-18 19:09:32,364 - CORE - _window - Call to super(MainWindow, self).__init__(fullscreen=False, resizable=True).
+2023-11-18 19:09:32,365 - CORE - _window - Target frame rate: 60 fps
+2023-11-18 19:09:32,366 - CORE - _window - Main window initialized.

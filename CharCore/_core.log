@@ -1,0 +1,7 @@
+2023-11-17 01:52:16,891 - CORE - _window - Importing _window module.
+2023-11-17 01:52:16,891 - CORE - _window - Initializing MainWindow class.
+2023-11-17 01:52:16,891 - CORE - _window - Registering event: on_activate
+2023-11-17 01:52:16,891 - CORE - _window - Registering event: on_deactivate
+2023-11-17 01:52:16,891 - CORE - _window - Registering event: on_reactivate
+2023-11-17 01:52:16,891 - CORE - _window - Registering event: on_refresh
+2023-11-17 01:52:16,891 - CORE - _window - Registering event: on_render
